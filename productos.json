@@ -1,0 +1,137 @@
+[
+    {
+        "id" : 1,
+        "name" : "GTX 5060",
+        "price" : "998.99€",
+        "description" : "Descripción de la tarjeta gráfica",
+        "stock" : 5,
+        "category" : "Electronica",
+        "imagen" : "grafica.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "i7-6700",
+        "price" : "238.99€",
+        "description" : "Descripción del procesador",
+        "stock" : 2,
+        "category" : "Electronica",
+        "imagen" : "procesador.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "RAM 2 x 8GB",
+        "price" : "49.99€",
+        "description" : "Descripción de la ram, super barata",
+        "stock" : 0,
+        "category" : "Electronica",
+        "imagen" : "ram.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Caja torre USP3500K",
+        "price" : "39.99€",
+        "description" : "Descripción de la caja",
+        "stock" : 8,
+        "category" : "Electronica",
+        "imagen" : "caja.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Teclado MSI",
+        "price" : "44.99€",
+        "description" : "Descripción del teclado",
+        "stock" : 10,
+        "category" : "Electronica",
+        "imagen" : "teclado.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Camiseta Básica",
+        "price" : "12.99€",
+        "description" : "Camiseta de algodón",
+        "stock" : 20,
+        "category" : "Ropa",
+        "imagen" : "camiseta.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "Pantalón Vaquero",
+        "price" : "29.99€",
+        "description" : "Vaquero de corte clásico",
+        "stock" : 15,
+        "category" : "Ropa",
+        "imagen" : "vaquero.jpg"
+    },
+    {
+        "id" : 8,
+        "name" : "Sudadera Capucha",
+        "price" : "34.99€",
+        "description" : "Sudadera de invierno",
+        "stock" : 2,
+        "category" : "Ropa",
+        "imagen" : "sudadera.jpg"
+    },
+    {
+        "id" : 9,
+        "name" : "Zapatillas Urban",
+        "price" : "59.99€",
+        "description" : "Zapatillas cómodas",
+        "stock" : 10,
+        "category" : "Ropa",
+        "imagen" : "zapatillas.jpg"
+    },
+    {
+        "id" : 10,
+        "name" : "Chaqueta Cuero",
+        "price" : "49.99€",
+        "description" : "Chaqueta negra",
+        "stock" : 3,
+        "category" : "Ropa",
+        "imagen" : "chaqueta de cuero.jpg"
+    },
+    {
+        "id" : 11,
+        "name" : "Lámpara de Mesa",
+        "price" : "19.99€",
+        "description" : "Lámpara LED",
+        "stock" : 4,
+        "category" : "Hogar",
+        "imagen" : "lampara led.jpg"
+    },
+    {
+        "id" : 12,
+        "name" : "Sofá 3 Plazas",
+        "price" : "299.99€",
+        "description" : "Sofá de tela gris",
+        "stock" : 2,
+        "category" : "Hogar",
+        "imagen" : "sofa.jpg"
+    },
+    {
+        "id" : 13,
+        "name" : "Cojín Decorativo",
+        "price" : "9.99€",
+        "description" : "Cojín geométrico",
+        "stock" : 12,
+        "category" : "Hogar",
+        "imagen" : "cojin.jpg"
+    },
+    {
+        "id" : 14,
+        "name" : "Manta Polar",
+        "price" : "14.99€",
+        "description" : "Manta para el sofá",
+        "stock" : 0,
+        "category" : "Hogar",
+        "imagen" : "manta.jpg"
+    },
+    {
+        "id" : 15,
+        "name" : "Cuadro Abstracto",
+        "price" : "45.00€",
+        "description" : "Lienzo decorativo",
+        "stock" : 4,
+        "category" : "Hogar",
+        "imagen" : "lienzo.jpg"
+    }
+]

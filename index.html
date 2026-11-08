@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tienda de Lucas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Tienda Lucas Rojas</h1>
+
+    
+    <button onclick="filtrar('Todo')">Todo</button>
+    <button onclick="filtrar('Electronica')">Electrónica</button>
+    <button onclick="filtrar('Ropa')">Ropa</button>
+    <button onclick="filtrar('Hogar')">Hogar</button>
+
+    <hr>
+    
+    
+    <button onclick="verCesta()" style="background-color: lightblue; padding: 10px;">Ver Cesta</button>
+
+    
+    <div id="cesta" style="display: none; border: 2px solid black; padding: 10px; margin-top: 10px; width: 300px;">
+        <h2>Carrito de compra</h2>
+        <p id="datosUsuario"></p>
+        <ul id="listaCesta"></ul>
+        <p>Total: <strong id="precioTotal">0</strong>€</p>
+        <button onclick="finalizarCompra()">Finalizar Compra</button>
+        <button onclick="cerrarCesta()">Cerrar</button>
+    </div>
+
+    
+    <div id="products" style="display: flex; flex-wrap: wrap;"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
